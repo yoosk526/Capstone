@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# 실행 중 생성되는 파일
+opencv.jpg
+pre_address.jpg
+address.jpg
+ocr_result.txt
