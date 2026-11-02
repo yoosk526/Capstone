@@ -86,8 +86,6 @@
 
 </details>
 
-<p align="center">
-  <img src="docs/images/robot_model.jpg" width="360" alt="로봇과 모형 건물">
 </p>
 
 ## 폴더 구조
